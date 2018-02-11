@@ -28,6 +28,5 @@ Head to head tank battles in an open terrain
 2. What about an in-game, temporary upgrade for greater speed?
 
 ### Far Out Thoughts
-  *Should there be things like missle alert/ lock on alert
-  *Objective based gameplay?
-
+1. Should there be things like missle launch alert/lock on alert
+2. Objective based gameplay?
